@@ -1,0 +1,55 @@
+1629112852329	geckodriver	INFO	Listening on 127.0.0.1:57594
+1629112855354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileK4iiNJ"
+1629112864102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileK4iiNJ\\search.json.mozlz4", (void 0)))
+1629112878908	Marionette	INFO	Listening on port 62308
+1629112879209	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Child 20016, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629113031720	Marionette	INFO	Stopped listening on port 62308
+1629113040442	geckodriver	INFO	Listening on 127.0.0.1:54065
+1629113043477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofiles51ywn"
+1629113044137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofiles51ywn\\search.json.mozlz4", (void 0)))
+1629113046565	Marionette	INFO	Listening on port 64475
+1629113046668	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629113094106	Marionette	INFO	Stopped listening on port 64475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629113101270	geckodriver	INFO	Listening on 127.0.0.1:61368
+1629113104315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilesDrYNY"
+1629113104840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilesDrYNY\\search.json.mozlz4", (void 0)))
+1629113107232	Marionette	INFO	Listening on port 57713
+1629113107501	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629113167287	Marionette	INFO	Stopped listening on port 57713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629113174945	geckodriver	INFO	Listening on 127.0.0.1:62510
+1629113177980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileI5oXes"
+1629113178501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileI5oXes\\search.json.mozlz4", (void 0)))
+1629113180998	Marionette	INFO	Listening on port 64788
+1629113181173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.7.6/jquery.nicescroll.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/stisla.js, line 266: ReferenceError: jQuery is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 28: ReferenceError: $ is not defined
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 496: ReferenceError: $ is not defined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629113305434	Marionette	INFO	Stopped listening on port 64788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

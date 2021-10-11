@@ -1,0 +1,27 @@
+1629108128059	geckodriver	INFO	Listening on 127.0.0.1:52989
+1629108131087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileEeXrzX"
+1629108131619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileEeXrzX\\search.json.mozlz4", (void 0)))
+1629108134010	Marionette	INFO	Listening on port 58279
+1629108134278	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.7.6/jquery.nicescroll.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/stisla.js, line 266: ReferenceError: jQuery is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 28: ReferenceError: $ is not defined
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 496: ReferenceError: $ is not defined
+1629108306504	Marionette	INFO	Stopped listening on port 58279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629108517496	geckodriver	INFO	Listening on 127.0.0.1:64254
+1629108520530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileEaYMQK"
+1629108521104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileEaYMQK\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629108524057	Marionette	INFO	Listening on port 60410
+1629108524229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1629108532268	Marionette	INFO	Stopped listening on port 60410

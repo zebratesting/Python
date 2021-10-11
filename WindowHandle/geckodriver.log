@@ -1,0 +1,225 @@
+1629294519686	geckodriver	INFO	Listening on 127.0.0.1:63282
+1629294522748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilevGK3Xo"
+1629294523293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilevGK3Xo\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629294525797	Marionette	INFO	Listening on port 63064
+1629294525959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 323: TypeError: $(...).tooltip is not a function
+JavaScript error: http://www.dummypoint.com/Actions.html, line 473: ReferenceError: demo is not defined
+1629294563362	Marionette	INFO	Stopped listening on port 63064
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629294598950	geckodriver	INFO	Listening on 127.0.0.1:50868
+1629294602013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilekmeQ5T"
+1629294602539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilekmeQ5T\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629294604842	Marionette	INFO	Listening on port 57223
+1629294605220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Actions.html, line 473: ReferenceError: demo is not defined
+1629294628917	Marionette	INFO	Stopped listening on port 57223
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629297599522	geckodriver	INFO	Listening on 127.0.0.1:55141
+1629297602585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilenkTwFg"
+1629297603412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilenkTwFg\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629297605724	Marionette	INFO	Listening on port 64077
+1629297606054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+1629298114396	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629302325434	Marionette	INFO	Stopped listening on port 64077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ules/Region.jsm", 419))
+1629297651437	Marionette	INFO	Listening on port 60739
+1629297651689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+1629298159323	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629302317094	Marionette	INFO	Stopped listening on port 60739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629374318258	geckodriver	INFO	Listening on 127.0.0.1:58133
+1629374321307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileDUoEcX"
+1629374322684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileDUoEcX\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629374325295	Marionette	INFO	Listening on port 58142
+1629374325399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+1629374477351	Marionette	INFO	Stopped listening on port 58142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofiles7vswi"
+1629374455253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofiles7vswi\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629374457724	Marionette	INFO	Listening on port 62474
+1629374457882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+1629374477428	Marionette	INFO	Stopped listening on port 62474
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629374711363	geckodriver	INFO	Listening on 127.0.0.1:51784
+1629374714407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileBm59ng"
+1629374715002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileBm59ng\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629374717388	Marionette	INFO	Listening on port 57308
+1629374717590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+1629375225259	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629382139889	Marionette	INFO	Stopped listening on port 57308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ules/Region.jsm", 419))
+1629374825378	Marionette	INFO	Listening on port 49159
+1629374825590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+1629374836079	Marionette	INFO	Stopped listening on port 49159
+[Parent 14092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://code.jquery.com/jquery-3.3.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629375032995	geckodriver	INFO	Listening on 127.0.0.1:52397
+1629375036047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofiled8ZFeM"
+1629375036571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofiled8ZFeM\\search.json.mozlz4", (void 0)))
+1629375039119	Marionette	INFO	Listening on port 51504
+1629375039225	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+1629375061714	Marionette	INFO	Stopped listening on port 51504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629693174981	geckodriver	INFO	Listening on 127.0.0.1:53469
+1629693178069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilenUl6v2"
+1629693180074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilenUl6v2\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629693183495	Marionette	INFO	Listening on port 53477
+1629693183701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+JavaScript error: http://www.dummypoint.com/Frame.html, line 482: TypeError: demo.initGoogleMaps is not a function
+1629693194482	Marionette	INFO	Stopped listening on port 53477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629694911291	geckodriver	INFO	Listening on 127.0.0.1:50586
+1629694914374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilesGyElB"
+1629694915312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilesGyElB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629694918819	Marionette	INFO	Listening on port 50595
+1629694919229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+JavaScript error: http://www.dummypoint.com/Frame.html, line 482: TypeError: demo.initGoogleMaps is not a function
+1629694933304	Marionette	INFO	Stopped listening on port 50595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629695346560	geckodriver	INFO	Listening on 127.0.0.1:59406
+1629695349644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileuOMBOH"
+1629695350573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileuOMBOH\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629695354186	Marionette	INFO	Listening on port 59416
+1629695354476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/Windows.html, line 480: TypeError: demo.initGoogleMaps is not a function
+JavaScript error: http://www.dummypoint.com/Frame.html, line 482: TypeError: demo.initGoogleMaps is not a function
+1629695373216	Marionette	INFO	Stopped listening on port 59416
+[Parent 6844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

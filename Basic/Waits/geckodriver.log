@@ -1,0 +1,98 @@
+1628851566490	geckodriver	INFO	Listening on 127.0.0.1:50053
+1628851569523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofile8n2Qrr"
+1628851570095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofile8n2Qrr\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628851572612	Marionette	INFO	Listening on port 59221
+1628851572720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628851584096	Marionette	INFO	Stopped listening on port 59221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628851600691	geckodriver	INFO	Listening on 127.0.0.1:50321
+1628851603722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileTSxoeq"
+1628851604264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileTSxoeq\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628851606664	Marionette	INFO	Listening on port 63484
+1628851606900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628851613946	Marionette	INFO	Stopped listening on port 63484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628851627899	geckodriver	INFO	Listening on 127.0.0.1:62519
+1628851630932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileMEycn4"
+1628851631471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileMEycn4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628851633813	Marionette	INFO	Listening on port 55195
+1628851634143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628851647071	Marionette	INFO	Stopped listening on port 55195
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628851720707	geckodriver	INFO	Listening on 127.0.0.1:61310
+1628851723758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilewsMkdH"
+1628851724356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilewsMkdH\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628851727108	Marionette	INFO	Listening on port 65101
+1628851727446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628851742481	Marionette	INFO	Stopped listening on port 65101
+1628852068588	geckodriver	INFO	Listening on 127.0.0.1:53562
+1628852071622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileUsCsBL"
+1628852072168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileUsCsBL\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628852074522	Marionette	INFO	Listening on port 56369
+1628852074809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628852124653	Marionette	INFO	Stopped listening on port 56369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628852244257	geckodriver	INFO	Listening on 127.0.0.1:64392
+1628852247313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileZAo61k"
+1628852247880	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileZAo61k\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628852250322	Marionette	INFO	Listening on port 56991
+1628852250512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628852262836	Marionette	INFO	Stopped listening on port 56991
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628852288795	geckodriver	INFO	Listening on 127.0.0.1:52981
+1628852291856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilenyGgmX"
+1628852292436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilenyGgmX\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628852295023	Marionette	INFO	Listening on port 50624
+1628852295114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628852304558	Marionette	INFO	Stopped listening on port 50624
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628852499536	geckodriver	INFO	Listening on 127.0.0.1:63157
+1628852502581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileQv6678"
+1628852503122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileQv6678\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628852505435	Marionette	INFO	Listening on port 59208
+1628852505769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628852512586	Marionette	INFO	Stopped listening on port 59208

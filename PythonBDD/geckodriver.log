@@ -1,0 +1,14 @@
+1630576212006	geckodriver	INFO	Listening on 127.0.0.1:55522
+1630576215040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileYqEgzB"
+1630576215845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileYqEgzB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1630576218769	Marionette	INFO	Listening on port 56792
+1630576219262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.orangehrm.com/, line 1817: SyntaxError: unexpected token: ':'
+1630576226885	Marionette	INFO	Stopped listening on port 56792
+[Child 1452, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

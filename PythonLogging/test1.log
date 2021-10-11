@@ -1,0 +1,5 @@
+24/08/21 03:49:34 PM Tuesday: INFO: This is info logging
+24/08/21 03:49:34 PM Tuesday: ERROR: This is a error log
+24/08/21 03:49:34 PM Tuesday: DEBUG: This is debug log
+24/08/21 03:49:34 PM Tuesday: WARNING: This is warning log
+24/08/21 03:49:34 PM Tuesday: CRITICAL: This is a critical log

@@ -1,0 +1,26 @@
+25/08/21 05:52:26 PM Wednesday - <module> :INFO :
+25/08/21 05:53:30 PM Wednesday - <module> :INFO :Google page launched :
+25/08/21 06:45:39 PM Wednesday - BaseClass :INFO :Web Page launched with URL:https://www.google.com :
+25/08/21 06:50:01 PM Wednesday - WebDriverClass :INFO :Firefox browser is initialising :
+25/08/21 06:50:04 PM Wednesday - BaseClass :INFO :Web Page launched with URL:https://www.google.com :
+26/08/21 06:54:27 PM Thursday - WebDriverClass :INFO :Firefox browser is initialising :
+26/08/21 06:54:32 PM Thursday - BaseClass :INFO :Web Page launched with URL:https://www.google.com :
+26/08/21 06:54:32 PM Thursday - BaseClass :ERROR :Web element not found withgLFyf gsfiwith givenclass :
+26/08/21 06:56:18 PM Thursday - WebDriverClass :INFO :Firefox browser is initialising :
+26/08/21 06:56:23 PM Thursday - BaseClass :INFO :Web Page launched with URL:https://www.google.com :
+26/08/21 06:56:23 PM Thursday - BaseClass :ERROR :Web element not found withgLFyf gsfiwith givenclass :
+26/08/21 06:57:36 PM Thursday - WebDriverClass :INFO :Firefox browser is initialising :
+26/08/21 06:57:40 PM Thursday - BaseClass :INFO :Web Page launched with URL:https://www.google.com :
+26/08/21 06:57:40 PM Thursday - BaseClass :INFO :WebElement found with locator valuea4bIcusing locatorTypeclass :
+26/08/21 06:59:13 PM Thursday - WebDriverClass :INFO :Firefox browser is initialising :
+26/08/21 06:59:16 PM Thursday - BaseClass :INFO :Web Page launched with URL:https://www.google.com :
+26/08/21 06:59:16 PM Thursday - BaseClass :INFO :WebElement found with locator value//input[@title='Search']using locatorTypexpath :
+26/08/21 07:01:41 PM Thursday - WebDriverClass :INFO :Firefox browser is initialising :
+26/08/21 07:01:44 PM Thursday - BaseClass :INFO :Web Page launched with URL:https://www.google.com :
+26/08/21 07:01:44 PM Thursday - BaseClass :INFO :WebElement found with locator valuequsing locatorTypename :
+26/08/21 07:09:36 PM Thursday - WebDriverClass :INFO :Firefox browser is initialising :
+26/08/21 07:09:40 PM Thursday - BaseClass :INFO :Web Page launched with URL:http://www.dummypoint.com/seleniumtemplate.html :
+26/08/21 07:09:40 PM Thursday - BaseClass :INFO :WebElement found with locator valueuser_inputusing locatorTypeid :
+26/08/21 07:10:14 PM Thursday - WebDriverClass :INFO :Firefox browser is initialising :
+26/08/21 07:10:18 PM Thursday - BaseClass :INFO :Web Page launched with URL:http://www.dummypoint.com/seleniumtemplate.html :
+26/08/21 07:10:18 PM Thursday - BaseClass :INFO :WebElement found with locator valueuser_inputusing locatorTypeid :

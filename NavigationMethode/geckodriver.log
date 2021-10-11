@@ -1,0 +1,64 @@
+1629029729496	geckodriver	INFO	Listening on 127.0.0.1:53604
+1629029732530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofile8IXsw5"
+1629029733081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofile8IXsw5\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629029735567	Marionette	INFO	Listening on port 63060
+1629029735728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+1629029750247	Marionette	INFO	Stopped listening on port 63060
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629029782163	geckodriver	INFO	Listening on 127.0.0.1:53450
+1629029785196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileZsxy7l"
+1629029785735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileZsxy7l\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629029788145	Marionette	INFO	Listening on port 62425
+1629029788362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+1629029820559	Marionette	INFO	Stopped listening on port 62425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629029922392	geckodriver	INFO	Listening on 127.0.0.1:59887
+1629029925434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileyaCIid"
+1629029925990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileyaCIid\\search.json.mozlz4", (void 0)))
+1629029928376	Marionette	INFO	Listening on port 64929
+1629029928614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+1629029961704	Marionette	INFO	Stopped listening on port 64929
+1629030011203	geckodriver	INFO	Listening on 127.0.0.1:63811
+1629030014228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilej2EHam"
+1629030015039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilej2EHam\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629030017366	Marionette	INFO	Listening on port 57659
+1629030017406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+1629030052561	Marionette	INFO	Stopped listening on port 57659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

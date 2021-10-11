@@ -1,0 +1,85 @@
+1628998474103	geckodriver	INFO	Listening on 127.0.0.1:53209
+1628998477127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileDPZbkW"
+1628998478668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileDPZbkW\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628998482323	Marionette	INFO	Listening on port 54173
+1628998482576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+1628998989000	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: (new Error("Protocol error (Error): Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862. from: server0.conn0.child4/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398924."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398924.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: (new Error("Protocol error (Error): Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398924. from: server0.conn0.child4/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (Error): Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398924. from: server0.conn0.child4/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (Error): Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2152398924. from: server0.conn0.child4/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2147500036."
+console.error: (new Error("Failed to fet
+###!!! [Child][MessageChannel] Error: (msgtype=0x390158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2147500036."
+console.error: (new Error("Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: (new Error("Protocol error (Error): Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2147500036. from: server0.conn0.child4/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (Error): Failed to fetch https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css. Code 2147500036. from: server0.conn0.child4/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 365))
+Exiting due to channel error.
+e.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofilehtm8xr\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629028728380	Marionette	INFO	Listening on port 65188
+1629028728448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+1629028741880	Marionette	INFO	Stopped listening on port 65188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633933249398	geckodriver	INFO	Listening on 127.0.0.1:49865
+1633933252481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileLcqJy1"
+1633933254109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YK4372\\AppData\\Local\\Temp\\rust_mozprofileLcqJy1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1633933257540	Marionette	INFO	Listening on port 49873
+1633933257736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dummypoint.com/seleniumtemplate.html, line 498: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+JavaScript error: http://www.dummypoint.com/asset/js/scripts.js, line 88: TypeError: $(...).niceScroll is not a function
+JavaScript error: http://www.dummypoint.com/Form.html, line 514: ReferenceError: demo is not defined
+1633933272333	Marionette	INFO	Stopped listening on port 49873
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
